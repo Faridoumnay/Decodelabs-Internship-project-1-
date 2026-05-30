@@ -1,5 +1,5 @@
 # Data Analytics Project – Data Cleaning & Preprocessing
-### 📌 Project Overview
+###  Project Overview
 
 This project focuses on data cleaning and preprocessing using Python.
 The main objective was to transform raw and inconsistent data into a clean, structured, and analysis-ready dataset that can be used for further analytics, visualization, and business intelligence tasks.
@@ -16,41 +16,41 @@ Working with real-world datasets using Python libraries
 
 This project is part of my journey in becoming a professional Data Analyst and improving my data manipulation skills with Python.
 
-### 🚀 Technologies Used
+###  Technologies Used
 Python
 Pandas
 NumPy
 Jupyter Notebook
-📂 Project Structure
-📁 Data-Cleaning-Project
+ Project Structure
+ Data-Cleaning-Project
 │
-├── 📄 Project1_Data_Cleaning.ipynb    # Main notebook containing all cleaning steps
-├── 📄 Dataset_Cleaned.csv             # Final cleaned dataset
-├── 📄 README.md                       # Project documentation
+├──  Project1_Data_Cleaning.ipynb    # Main notebook containing all cleaning steps
+├──  Dataset_Cleaned.csv             # Final cleaned dataset
+├── 📄README.md                       # Project documentation
  Data Cleaning Process
 
 The following preprocessing steps were applied to the dataset:
 
-✅ Handling Missing Values
+== Handling Missing Values
 Detected null and missing values
 Applied appropriate imputation techniques
 Ensured dataset consistency
-✅ Removing Duplicates
+== Removing Duplicates
 Identified duplicate records
 Removed redundant rows to improve data quality
-✅ Data Type Conversion
+== Data Type Conversion
 Converted columns into appropriate data types
 Standardized formats for easier analysis
-✅ Feature Engineering
+== Feature Engineering
 Created and transformed useful features
 Improved dataset usability for analytics
-✅ Data Standardization
+== Data Standardization
 Cleaned inconsistent text values
 Standardized categorical variables
-✅ Outlier Handling
+== Outlier Handling
 Detected anomalies and extreme values
 Applied suitable preprocessing methods
-### 📈 Project Goals
+### Project Goals
 
 The main goals of this project were:
 
@@ -69,7 +69,7 @@ Data visualization
 Dashboard creation
 Machine learning models
 Business analysis
-💡 Skills Demonstrated
+ Skills Demonstrated
 
 ### This project highlights skills in:
 
@@ -79,16 +79,16 @@ Exploratory Data Analysis (EDA)
 Python Programming
 Problem Solving
 Data Manipulation with Pandas
-▶️ How to Run the Project
-1️⃣ Clone the repository
-git clone https://github.com/Faridoumnay/Decodelabs-Internship-project-1-.git
-2️⃣ Navigate to the project folder
+ How to Run the Project
+1- Clone the repository
+git clone https://github.com/Faridoumnay/Task-1-faridoumnay.git
+2- Navigate to the project folder
 cd Data-Cleaning-Project
-3️⃣ Install required libraries
+3- Install required libraries
 pip install pandas numpy jupyter
-4️⃣ Run Jupyter Notebook
+4- Run Jupyter Notebook
 jupyter notebook
-📌 Future Improvements
+ Future Improvements
 
 ### Possible future enhancements:
 
@@ -96,7 +96,7 @@ Add advanced visualizations
 Perform full Exploratory Data Analysis (EDA)
 Build machine learning models
 Create interactive dashboards using Power BI
-### 👨‍💻 Author
+###  Author
 
 Farid Oumnay
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights.
